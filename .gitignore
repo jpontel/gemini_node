@@ -1,0 +1,17 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+
+# Configuração do TypeScript
+tsconfig.json
+
+# Arquivos de lock
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Pastas de build (se quiser ignorar também)
+dist/
+build/
